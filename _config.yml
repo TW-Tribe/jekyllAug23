@@ -1,8 +1,12 @@
-
 theme: just-the-docs
 
 title: "Tech Writer's Tribe"
 description: "Technical documentation, guides, tutorials, and resources."
+author: "Tech Writer's Tribe"
 
-nav_enabled: true
+url: "https://tw-tribe.github.io"
+baseurl: "/jekyllAug23"
+
 search_enabled: true
+nav_enabled: true
+heading_anchors: true
