@@ -1,4 +1,8 @@
-theme: minima
-title: "Tech Writer's Tribe | Doc Website"
-description: "Documentation website with content on API documentation, product guides, and technical content."
-author: "TWT"
+
+theme: just-the-docs
+
+title: "Tech Writer's Tribe"
+description: "Technical documentation, guides, tutorials, and resources."
+
+nav_enabled: true
+search_enabled: true
